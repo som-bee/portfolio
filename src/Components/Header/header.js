@@ -1,5 +1,5 @@
 import React from "react";
-import myResume from "../assets/Mohit-Goyal-ReactJs-Resume-Final.pdf";
+import myResume from "../assets/Somnath-Bera-Resume-11-2022.pdf";
 export default function Header() {
   return (
     <div className="main_header">

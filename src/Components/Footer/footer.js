@@ -40,7 +40,7 @@ export default function Footer() {
             <ul className=" navbar-nav ms-auto">
               <li className="nav-item">
                 <a className="nav-link" href="https://github.com/som-bee">
-                  @Mohit1108 <i className="bi bi-github"></i>
+                  @som-bee <i className="bi bi-github"></i>
                 </a>
               </li>
             </ul>

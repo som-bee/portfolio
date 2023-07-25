@@ -7,7 +7,7 @@ export default function Home() {
     <div className="MainBody">
       <HeroSection></HeroSection>
       <About></About>
-      <ProjectTabs></ProjectTabs>
+      {/* <ProjectTabs></ProjectTabs> */}
     </div>
   );
 }
