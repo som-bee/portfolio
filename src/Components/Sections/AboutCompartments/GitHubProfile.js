@@ -9,7 +9,7 @@ function GitHubRepositories() {
     async function fetchRepositories() {
       try {
         const response = await axios.get(
-          "https://api.github.com/users/Mohit1108/repos?sort=updated&direction=desc"
+          "https://api.github.com/users/som-bee/repos?sort=updated&direction=desc"
         );
         setRepositories(response.data);
       } catch (error) {

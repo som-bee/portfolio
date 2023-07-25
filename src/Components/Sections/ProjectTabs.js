@@ -9,7 +9,7 @@ const ProjectTabs = () => {
 
   useEffect(() => {
     axios
-      .get("https://mohitgoyal.in/wp-json/wp/v2/project-category")
+      .get("") //https://mohitgoyal.in/wp-json/wp/v2/project-category
       .then((response) => {
         setCategories(response.data);
         setSelectedCategoryId(response.data[0]?.id);

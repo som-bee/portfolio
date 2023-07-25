@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/som-bee.github.io/static/css/main.08f5939e.css",
+    "main.js": "/som-bee.github.io/static/js/main.0f511a0c.js",
+    "static/media/Green.png": "/som-bee.github.io/static/media/Green.c1ac3eddabb797b0631d.png",
+    "static/media/Blue.png": "/som-bee.github.io/static/media/Blue.c202c6b25421f395dfce.png",
+    "static/media/Mohit-Goyal-ReactJs-Resume-Final.pdf": "/som-bee.github.io/static/media/Mohit-Goyal-ReactJs-Resume-Final.0d515b6d4eb18d482d46.pdf",
+    "index.html": "/som-bee.github.io/index.html",
+    "main.08f5939e.css.map": "/som-bee.github.io/static/css/main.08f5939e.css.map",
+    "main.0f511a0c.js.map": "/som-bee.github.io/static/js/main.0f511a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08f5939e.css",
+    "static/js/main.0f511a0c.js"
+  ]
+}

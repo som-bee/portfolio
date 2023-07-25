@@ -11,8 +11,8 @@ export default function HeroSection() {
         <div className="row align-items-center justify-content-between ">
           <div className="col-md-6 text-start">
             <span className="subTitle"> Hi, I am</span>
-            <h1 className="Title"> Mohit Goyal</h1>
-            <h2 className="subTitleBottom">{">"} Front-end developer</h2>
+            <h1 className="Title"> Somnath Bera</h1>
+            <h2 className="subTitleBottom">{">"} .NET developer</h2>
             <div className="codeHero mt-5">
               <SyntaxHighlighter language="javascript" style={dracula}>
                 // complete/skip the game to continue website
@@ -25,7 +25,7 @@ export default function HeroSection() {
                 language="javascript"
                 style={dracula}
               >
-                const githubLink = "https://github.com/Mohit1108"
+                const githubLink = "https://github.com/som-bee"
               </SyntaxHighlighter>
             </div>
             <div className="myLinks gap-3 d-flex mt-5">
@@ -34,7 +34,7 @@ export default function HeroSection() {
 
               </a>
               <a
-                href="https://www.linkedin.com/in/mohitgoyal1108/"
+                href="https://www.linkedin.com/in/somnath02/"
                 className="btn solidBtn solidBig"
               >
                 _linkedIn <i className="bi bi-linkedin"></i>

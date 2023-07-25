@@ -9,7 +9,7 @@ const ProjectList = ({ categoryId }) => {
     // Fetch projects by category ID
     axios
       .get(
-        `https://mohitgoyal.in/wp-json/wp/v2/project?project-category=${categoryId}`
+        `` //https://mohitgoyal.in/wp-json/wp/v2/project?project-category=${categoryId}
       )
       .then(async (response) => {
         const projectsData = await Promise.all(
