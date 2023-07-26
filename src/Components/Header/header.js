@@ -5,7 +5,7 @@ export default function Header() {
     <div className="main_header">
       <nav className="navbar navbar-expand-lg navbar-dark ">
         <div className="container-fluid">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="/portfolio">
             somnath bera
           </a>
           <button
