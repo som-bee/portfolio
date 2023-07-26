@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2ddcc6fe.css",
-    "main.js": "/portfolio/static/js/main.463f4fd2.js",
+    "main.js": "/portfolio/static/js/main.9214aacf.js",
     "static/media/Green.png": "/portfolio/static/media/Green.c1ac3eddabb797b0631d.png",
     "static/media/Blue.png": "/portfolio/static/media/Blue.c202c6b25421f395dfce.png",
     "static/media/Somnath-Bera-Resume-11-2022.pdf": "/portfolio/static/media/Somnath-Bera-Resume-11-2022.14d45dce4197a573cbcf.pdf",
     "index.html": "/portfolio/index.html",
     "main.2ddcc6fe.css.map": "/portfolio/static/css/main.2ddcc6fe.css.map",
-    "main.463f4fd2.js.map": "/portfolio/static/js/main.463f4fd2.js.map"
+    "main.9214aacf.js.map": "/portfolio/static/js/main.9214aacf.js.map"
   },
   "entrypoints": [
     "static/css/main.2ddcc6fe.css",
-    "static/js/main.463f4fd2.js"
+    "static/js/main.9214aacf.js"
   ]
 }
