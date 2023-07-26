@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/som-bee.github.io/static/css/main.08f5939e.css",
-    "main.js": "/som-bee.github.io/static/js/main.36ed80cd.js",
-    "static/media/Green.png": "/som-bee.github.io/static/media/Green.c1ac3eddabb797b0631d.png",
-    "static/media/Blue.png": "/som-bee.github.io/static/media/Blue.c202c6b25421f395dfce.png",
-    "static/media/Somnath-Bera-Resume-11-2022.pdf": "/som-bee.github.io/static/media/Somnath-Bera-Resume-11-2022.14d45dce4197a573cbcf.pdf",
-    "index.html": "/som-bee.github.io/index.html",
-    "main.08f5939e.css.map": "/som-bee.github.io/static/css/main.08f5939e.css.map",
-    "main.36ed80cd.js.map": "/som-bee.github.io/static/js/main.36ed80cd.js.map"
+    "main.css": "/portfolio/static/css/main.2ddcc6fe.css",
+    "main.js": "/portfolio/static/js/main.463f4fd2.js",
+    "static/media/Green.png": "/portfolio/static/media/Green.c1ac3eddabb797b0631d.png",
+    "static/media/Blue.png": "/portfolio/static/media/Blue.c202c6b25421f395dfce.png",
+    "static/media/Somnath-Bera-Resume-11-2022.pdf": "/portfolio/static/media/Somnath-Bera-Resume-11-2022.14d45dce4197a573cbcf.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.2ddcc6fe.css.map": "/portfolio/static/css/main.2ddcc6fe.css.map",
+    "main.463f4fd2.js.map": "/portfolio/static/js/main.463f4fd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.08f5939e.css",
-    "static/js/main.36ed80cd.js"
+    "static/css/main.2ddcc6fe.css",
+    "static/js/main.463f4fd2.js"
   ]
 }
