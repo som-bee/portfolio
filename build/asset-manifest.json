@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/som-bee.github.io/static/css/main.08f5939e.css",
-    "main.js": "/som-bee.github.io/static/js/main.2c3d92f7.js",
+    "main.js": "/som-bee.github.io/static/js/main.36ed80cd.js",
     "static/media/Green.png": "/som-bee.github.io/static/media/Green.c1ac3eddabb797b0631d.png",
     "static/media/Blue.png": "/som-bee.github.io/static/media/Blue.c202c6b25421f395dfce.png",
-    "static/media/Mohit-Goyal-ReactJs-Resume-Final.pdf": "/som-bee.github.io/static/media/Mohit-Goyal-ReactJs-Resume-Final.0d515b6d4eb18d482d46.pdf",
+    "static/media/Somnath-Bera-Resume-11-2022.pdf": "/som-bee.github.io/static/media/Somnath-Bera-Resume-11-2022.14d45dce4197a573cbcf.pdf",
     "index.html": "/som-bee.github.io/index.html",
     "main.08f5939e.css.map": "/som-bee.github.io/static/css/main.08f5939e.css.map",
-    "main.2c3d92f7.js.map": "/som-bee.github.io/static/js/main.2c3d92f7.js.map"
+    "main.36ed80cd.js.map": "/som-bee.github.io/static/js/main.36ed80cd.js.map"
   },
   "entrypoints": [
     "static/css/main.08f5939e.css",
-    "static/js/main.2c3d92f7.js"
+    "static/js/main.36ed80cd.js"
   ]
 }
